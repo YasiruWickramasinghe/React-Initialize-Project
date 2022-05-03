@@ -1,5 +1,11 @@
-const App = () => {
-  return <div>Hello world!</div>;
-};
+import "./App.css";
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">Start Your Coding...!</header>
+    </div>
+  );
+}
 
 export default App;
