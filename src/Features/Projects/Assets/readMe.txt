@@ -1,0 +1,1 @@
+this contains like images, svg, global css

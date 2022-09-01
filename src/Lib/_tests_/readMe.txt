@@ -1,0 +1,1 @@
+ Each component should consist of a test file to do a unit test as it will be widely used in the project.

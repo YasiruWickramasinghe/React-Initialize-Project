@@ -1,0 +1,1 @@
+very small and simple function generally contain a pure function

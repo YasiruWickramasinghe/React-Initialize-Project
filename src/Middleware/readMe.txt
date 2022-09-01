@@ -1,2 +1,0 @@
-This folder consists of middleware that allows for side effects in the application.
- It is used when we are using redux with react. Here we keep all our custom middleware.
