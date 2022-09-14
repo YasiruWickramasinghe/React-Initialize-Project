@@ -1,15 +1,15 @@
 # run app
+
 npm install
 npm start
 
-
 # Change Project name and icons
-1) Go to index.html and change the title and favorite Icon
-3) Go to package.json,package-lock.json files and change the project name
-2) Go to App.jsx and Happy coding
+
+1. Go to index.html and change the title and favorite Icon & Change the Fonts
+2. Go to package.json,package-lock.json files and change the project name
+3. Go to App.jsx and Happy coding
 
 ###################################################################################################
-
 
 # Getting Started with Create React App
 
